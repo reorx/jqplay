@@ -11,6 +11,7 @@ the aim is to improve the original project on the following aspects:
 - [ ] Snippet
   - [ ] add name, author for snippet
   - [ ] add page to list and search snippets
+- [ ] Ability to flat input json in (catj)[https://github.com/soheilpro/catj] output
 
 
 ## Development
